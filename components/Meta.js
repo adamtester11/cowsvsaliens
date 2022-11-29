@@ -17,7 +17,7 @@ const Meta = ({ title, keywords, description }) => {
 Meta.defaultProps = {
   title: "Minting dApp",
   keywords: " NFTs, erc721, crypto",
-  description: "ERC721 minting dApp",
+  description: "<img src='img_girl.jpg'>",
 };
 
 export default Meta;
