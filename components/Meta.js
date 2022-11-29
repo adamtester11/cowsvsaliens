@@ -8,6 +8,7 @@ const Meta = ({ title, keywords, description }) => {
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta name="keywords" content={keywords} />
       <meta name="description" content={description} />
+      <meta name="image" content="alien.png" />
       <link rel="icon" href="/favicon.ico" />
       <title>{title}</title>
     </Head>
