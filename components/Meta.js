@@ -17,7 +17,7 @@ const Meta = ({ title, keywords, description }) => {
 Meta.defaultProps = {
   title: "Cows Vs Aliens NFT Mint"
   keywords: " NFTs, erc721, crypto",
-  description: "The mint for cows and aliens<img src='/favicon.ico'>",
+  description: "The mint for cows and aliens",
 };
 
 export default Meta;
